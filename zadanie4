@@ -1,0 +1,3 @@
+CREATE DATABASE 04; // Создали 
+SHOW DATABASES; // проверили
+DROP DATABASE 04; // удалили 
